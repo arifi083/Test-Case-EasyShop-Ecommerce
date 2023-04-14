@@ -1,4 +1,4 @@
-# Test case for Rokomari website
+# Test case for Easy Shop(Ecommerce) website
 
 ### Test case writing for Easy Shop(Ecommerce)
 
